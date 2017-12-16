@@ -15,7 +15,6 @@ namespace ArmaWorkshopUpdater
         {
             ModListDocument = new XPathDocument(uri);
             ModList = new List<Tuple<string, string>>();
-            ParseModList();
         }
         public void ParseModList()
         {
