@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{F9982DE2-3CBD-4585-8CED-227E93E096F4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>a3_workshop_downloader_csharp</RootNamespace>
-    <AssemblyName>a3-workshop-downloader-csharp</AssemblyName>
+    <RootNamespace>ArmaWorkshopUpdater</RootNamespace>
+    <AssemblyName>ArmaWorkshopUpdater</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
